@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Villa Rezervasyon</string>
+    <string name="happy_holiday">İyi tatiller,</string>
+    <string name="user_name">Jonathan</string>
+    <string name="search_placeholder">Villa ara</string>
+    <string name="popular_city">Popüler Şehirler</string>
+    <string name="see_all">Tümünü Gör</string>
+    <string name="favorites_place">Favori Konaklama Yerleri</string>
+    <string name="rating">Puan</string>
+</resources>

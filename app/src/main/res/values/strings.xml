@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Villa Booking</string>
+    <string name="happy_holiday">Happy holiday,</string>
+    <string name="user_name">Jonathan</string>
+    <string name="search_placeholder">Search villa</string>
+    <string name="popular_city">Popular City</string>
+    <string name="see_all">See all</string>
+    <string name="favorites_place">Favorites Place to Stay</string>
+    <string name="rating">Rating</string>
+</resources>
